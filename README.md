@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/1028289258483626096)](https://discord.com/users/1028289258483626096)
 <!--
 **TheCubidian/TheCubidian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
