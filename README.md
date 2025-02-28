@@ -1,5 +1,6 @@
 ## Hi there 👋
-[![Discord Presence](https://lanyard.cnrad.dev/api/1028289258483626096)](https://discord.com/users/1028289258483626096)
+(https://lanyard.cnrad.dev/api/1028289258483626096)](https://discord.com/users/1028289258483626096)
+(https://github-readme-stats.vercel.app/api?username=DovydasTEDS&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E)
 <!--
 **TheCubidian/TheCubidian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
