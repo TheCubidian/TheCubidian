@@ -1,6 +1,6 @@
 ## Hi there 👋
-(https://lanyard.cnrad.dev/api/1028289258483626096)](https://discord.com/users/1028289258483626096)
-(https://github-readme-stats.vercel.app/api?username=DovydasTEDS&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1028289258483626096?showDisplayName=true&hideDecoration=false&idleMessage=Currently%20idle.&borderRadius=)](https://discord.com/users/1028289258483626096)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheCubidian&show_icons=true&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **TheCubidian/TheCubidian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
