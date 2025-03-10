@@ -8,4 +8,4 @@
 - ✉️ Reach me on:
 	- the_cubidian@outlook.com
  	- thecubidian@gmail.com
-  	- My discord, which can be reached by clicking the card above, or by visiting the following link: https://discord.com/users/1028289258483626096
+  	- My discord, which can be reached by clicking the first card above, or by visiting the following link: https://discord.com/users/1028289258483626096
