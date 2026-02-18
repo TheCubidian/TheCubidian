@@ -7,4 +7,4 @@
 - ✉️ Reach me on:
 	- the_cubidian@outlook.com
  	- thecubidian@gmail.com
-  	- (Discord)[https://discord.com/users/1028289258483626096]
+  	- [Discord](https://discord.com/users/1028289258483626096)
